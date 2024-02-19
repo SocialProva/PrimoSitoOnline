@@ -1,0 +1,79 @@
+.bestseller-container img {
+    width: 100px;
+    height: 120px;
+}
+.bestseller-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 23%;
+    height: 215px;
+    margin: 13px;
+    border: 4px solid black;
+    border-radius: 10px;
+}
+.div-img-home img {
+    width: 100%;
+    height: 200px;
+}
+.navmenu ul li {
+    text-decoration: none;
+    color: black;
+    margin: 11px;
+    font-size: 14px;
+    font-family: 'Mooli', sans-serif;
+}
+.navtitle {
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Mooli', sans-serif;
+    margin: 0%;
+}
+.navbar {
+    height: 135px;
+    width: 85%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #BBAB8B;
+}
+.slogan-button-home p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+}
+.img-home {
+    height: 250px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div-img-home {
+    height: 205px;
+    width: 30%;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.bestseller-title {
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bestseller-row {
+    width: 100%;
+    height: 232px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
